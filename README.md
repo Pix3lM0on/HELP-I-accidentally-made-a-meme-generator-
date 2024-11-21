@@ -10,7 +10,7 @@ Well, mistakes happen? idk.
 5. There is no `5.`
 ---
 > The secret password is... secret.
->> Ok, but fr, it's on the releases page.
+>> Ok, but fr, it's `pass.txt` on the releases page.
 ---
 If u don't want to install it, u can use the `main.exe` or `main.ps1`.
 It dosen't matter which one you get.
